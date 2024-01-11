@@ -1,0 +1,48 @@
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudHorario.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudRuta.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudTerminal.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudUnidad.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuAdmin.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.exe.config
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.exe
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.pdb
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.exe
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.pdb
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.EnvioEcomienda.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuEncomiendas.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuTiquetero.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CorteCajaTiquetes.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.VentaTiquetes.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuPrincipal.resources
+C:\Users\Usuario\source\repos\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.RegistrarUsuario.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CorteCajaTiquetes.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudHorario.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudRuta.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudTerminal.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.CrudUnidad.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.EnvioEcomienda.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.Form1.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuAdmin.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuEncomiendas.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuPrincipal.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.MenuTiquetero.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.Properties.Resources.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.RegistrarUsuario.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.VentaTiquetes.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.exe
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.pdb
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.Resources.VentaTiqueteInternacional.resources
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.exe.config
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.exe
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\bin\Debug\ProyectoII_Tiquete_bus.pdb
+C:\Users\Admin\Desktop\Proyectos C#\ProyectoII_Tiquete_bus\obj\Debug\ProyectoII_Tiquete_bus.VentaInternacionalRegreso.resources
