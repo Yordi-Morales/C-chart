@@ -1,0 +1,285 @@
+{
+"provincia": [
+   {
+       "Provincia": "San José",
+       "ISO 3166-2": "CR-SJ",
+       "Cabecera": "San José",
+       "Cantones": "20",
+       "Distritos": "123",
+       "Población": "1685299",
+       "Extensión": "4965,90"
+   },
+   {
+       "Provincia": "Alajuela",
+       "ISO 3166-2": "CR-A",
+       "Cabecera": "Alajuela",
+       "Cantones": "16",
+       "Distritos": "116",
+       "Población": "1055637",
+       "Extensión": "9757,53"
+   },
+   {
+       "Provincia": "Cartago",
+       "ISO 3166-2": "CR-C",
+       "Cabecera": "Cartago",
+       "Cantones": "8",
+       "Distritos": "51",
+       "Población": "547691",
+       "Extensión": "3124,67"
+   },
+   {
+       "Provincia": "Heredia",
+       "ISO 3166-2": "CR-H",
+       "Cabecera": "Heredia",
+       "Cantones": "10",
+       "Distritos": "47",
+       "Población": "539598",
+       "Extensión": "2656,99"
+   },
+   {
+       "Provincia": "Guanacaste",
+       "ISO 3166-2": "CR-G",
+       "Cabecera": "Liberia",
+       "Cantones": "11",
+       "Distritos": "61",
+       "Población": "404774",
+       "Extensión": "10140,71"
+   },
+   {
+       "Provincia": "Puntarenas",
+       "ISO 3166-2": "CR-P",
+       "Cabecera": "Puntarenas",
+       "Cantones": "13",
+       "Distritos": "60",
+       "Población": "510566",
+       "Extensión": "11265,69"
+   },
+   {
+       "Provincia": "Limón",
+       "ISO 3166-2": "CR-L",
+       "Cabecera": "Limón",
+       "Cantones": "6",
+       "Distritos": "30",
+       "Población": "469797",
+       "Extensión": "9188,52"
+   }
+], 
+"territorio-indigena": [
+      {
+         "Territorio":"Térraba",
+         "Cabecera":"Térraba",
+         "Etnia":"Teribe",
+         "Cantones":"Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Español y teribe",
+         "Creación":"1956"
+      },
+      {
+         "Territorio":"Guatuso",
+         "Cabecera":"Tonjibe",
+         "Etnia":"Guatuso",
+         "Cantones":"Guatuso y San Carlos",
+         "Provincia":"Alajuela",
+         "Idioma":"Español y maleku",
+         "Creación":"1977"
+      },
+      {
+         "Territorio":"Kéköldi",
+         "Cabecera":"Kéköldi",
+         "Etnia":"Bribri",
+         "Cantones":"Talamanca",
+         "Provincia":"Limón",
+         "Idioma":"Bribri y español",
+         "Creación":"1977"
+      },
+      {
+         "Territorio":"Quitirrisí",
+         "Cabecera":"Quitirrisí",
+         "Etnia":"Huetar",
+         "Cantones":"Mora",
+         "Provincia":"San José",
+         "Idioma":"Español",
+         "Creación":"1979"
+      },
+      {
+         "Territorio":"Matambú",
+         "Cabecera":"Matambú",
+         "Etnia":"Chorotega",
+         "Cantones":"Hojancha y Nicoya",
+         "Provincia":"Guanacaste",
+         "Idioma":"Español",
+         "Creación":"1980"
+      },
+      {
+         "Territorio":"Abrojos Montezuma",
+         "Cabecera":"Abrojo Guaymí",
+         "Etnia":"Ngäbe",
+         "Cantones":"Corredores",
+         "Provincia":"Puntarenas",
+         "Idioma":"Ngäbere",
+         "Creación":"1980"
+      },
+      {
+         "Territorio":"Coto Brus",
+         "Cabecera":"La Casona",
+         "Etnia":"Ngäbe",
+         "Cantones":"Coto Brus y Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Ngäbere",
+         "Creación":"1981"
+      },
+      {
+         "Territorio":"Conte Burica",
+         "Cabecera":"Alto Conte",
+         "Etnia":"Ngäbe",
+         "Cantones":"Golfito y Corredores",
+         "Provincia":"Puntarenas",
+         "Idioma":"Ngäbere",
+         "Creación":"1982"
+      },
+      {
+         "Territorio":"Ujarrás",
+         "Cabecera":"Ujarrás",
+         "Etnia":"Cabécar",
+         "Cantones":"Buenos Aires",
+         "Provincia":"San José y Puntarenas",
+         "Idioma":"Cabécar",
+         "Creación":"1982"
+      },
+      {
+         "Territorio":"Salitre",
+         "Cabecera":"Salitre",
+         "Etnia":"Bribri",
+         "Cantones":"Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Bribri y español",
+         "Creación":"1982"
+      },
+      {
+         "Territorio":"Cabagra",
+         "Cabecera":"San Rafael de Cabagra",
+         "Etnia":"Bribri",
+         "Cantones":"Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Bribri y español",
+         "Creación":"1982"
+      },
+      {
+         "Territorio":"Tayní",
+         "Cabecera":"Gavilán",
+         "Etnia":"Cabécar",
+         "Cantones":"Limón",
+         "Provincia":"Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1984"
+      },
+      {
+         "Territorio":"Telire",
+         "Cabecera":"Alto Telire",
+         "Etnia":"Cabécar",
+         "Cantones":"Talamanca",
+         "Provincia":"Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1985"
+      },
+      {
+         "Territorio":"Cabecar Talamanca",
+         "Cabecera":"Gavilán Canta",
+         "Etnia":"Cabécar",
+         "Cantones":"Talamanca",
+         "Provincia":"Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1985"
+      },
+      {
+         "Territorio":"Bribri Talamanca",
+         "Cabecera":"Suretka",
+         "Etnia":"Bribri",
+         "Cantones":"Talamanca",
+         "Provincia":"Limón",
+         "Idioma":"Bribri y español",
+         "Creación":"1985"
+      },
+      {
+         "Territorio":"Zapatón",
+         "Cabecera":"Zapatón",
+         "Etnia":"Huetar",
+         "Cantones":"Puriscal",
+         "Provincia":"San José",
+         "Idioma":"Español",
+         "Creación":"1986"
+      },
+      {
+         "Territorio":"Osa",
+         "Cabecera":"Alto Laguna",
+         "Etnia":"Ngobe",
+         "Cantones":"Golfito",
+         "Provincia":"Puntarenas",
+         "Idioma":"Ngäbere",
+         "Creación":"1990"
+      },
+      {
+         "Territorio":"Nairi-Awari",
+         "Cabecera":"Tsiöbata",
+         "Etnia":"Cabécar",
+         "Cantones":"Turrialba, Matina y Siquirres",
+         "Provincia":"Cartago y Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1991"
+      },
+      {
+         "Territorio":"Bajo Chirripó",
+         "Cabecera":"Namaldi",
+         "Etnia":"Cabécar",
+         "Cantones":"Turrialba y Limón",
+         "Provincia":"Cartago y Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1992"
+      },
+      {
+         "Territorio":"Alto Chirripó",
+         "Cabecera":"Alto Quetzal",
+         "Etnia":"Cabécar",
+         "Cantones":"Turrialba y Matina",
+         "Provincia":"Cartago y Limón",
+         "Idioma":"Cabécar",
+         "Creación":"1993"
+      },
+      {
+         "Territorio":"Curré",
+         "Cabecera":"Rey Curré",
+         "Etnia":"Brunca",
+         "Cantones":"Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Boruca",
+         "Creación":"1993"
+      },
+      {
+         "Territorio":"Boruca",
+         "Cabecera":"Boruca",
+         "Etnia":"Brunca",
+         "Cantones":"Buenos Aires",
+         "Provincia":"Puntarenas",
+         "Idioma":"Boruca",
+         "Creación":"1993"
+      },
+      {
+         "Territorio":"China Kichá",
+         "Cabecera":"China Kichá",
+         "Etnia":"Cabécar",
+         "Cantones":"Pérez Zeledón",
+         "Provincia":"San José",
+         "Idioma":"Cabécar",
+         "Creación":"2001"
+      },
+      {
+         "Territorio":"Altos de San Antonio",
+         "Cabecera":"Altos de San Antonio",
+         "Etnia":"Ngobe",
+         "Cantones":"Golfito",
+         "Provincia":"Puntarenas",
+         "Idioma":"Ngäbere",
+         "Creación":"2001"
+      }
+  ]
+}
