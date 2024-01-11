@@ -1,0 +1,16 @@
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\bin\Debug\Ingenieria en Software.exe.config
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\bin\Debug\Ingenieria en Software.exe
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\bin\Debug\Ingenieria en Software.pdb
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\obj\Debug\Ingenieria en Software.exe
+C:\Users\Diego\source\repos\Ingenieria en Software\Ingenieria en Software\obj\Debug\Ingenieria en Software.pdb
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\bin\Debug\Ingenieria en Software.exe.config
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\bin\Debug\Ingenieria en Software.exe
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\bin\Debug\Ingenieria en Software.pdb
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\obj\Debug\Ingenieria en Software.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\obj\Debug\Ingenieria en Software.exe
+C:\Users\Admin\Desktop\Ingenieria en Software II\Ingenieria en Software\obj\Debug\Ingenieria en Software.pdb
