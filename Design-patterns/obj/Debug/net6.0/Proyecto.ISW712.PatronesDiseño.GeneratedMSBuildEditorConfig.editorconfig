@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto.ISW712.PatronesDiseño
+build_property.RootNamespace = Proyecto.ISW712.PatronesDiseño
+build_property.ProjectDir = C:\Users\Admin\Downloads\Proyecto.ISW712.PatronesDiseño\Proyecto.ISW712.PatronesDiseño\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Downloads\Proyecto.ISW712.PatronesDiseño\Proyecto.ISW712.PatronesDiseño
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/RolCrud/AgregarRol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sQ3J1ZFxBZ3JlZ2FyUm9sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/RolCrud/DetalleView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sQ3J1ZFxEZXRhbGxlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/RolCrud/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sQ3J1ZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/RolCrud/ModificarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sQ3J1ZFxNb2RpZmljYXJWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Singleton/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xldG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/UserCrud/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNydWRcQWdyZWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/UserCrud/DetalleView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNydWRcRGV0YWxsZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/UserCrud/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNydWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/UserCrud/ModificarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNydWRcTW9kaWZpY2FyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Downloads/Proyecto.ISW712.PatronesDiseño/Proyecto.ISW712.PatronesDiseño/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-smbikedkdo
